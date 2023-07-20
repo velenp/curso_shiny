@@ -4,20 +4,15 @@
     Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud.</h2>
 
 
+<p>Cupo: 30
 
-    Cupo: 30
+<p>CARGA HORARIA: 32 HS
 
+<p>AÑO: 2023	CUATRIMESTRE: SEGUNDO
 
-    CARGA HORARIA:** 32 HS**
+<p>DOCENTES: Adrián Santoro / Velén Pennini
 
-
-    AÑO:** 2023	**CUATRIMESTRE:** SEGUNDO**
-
-
-    DOCENTES: Adrián Santoro / Velén Pennini
-
-
-    El curso está orientado a profesionales de diferentes disciplinas que se interesen o trabajen con estadísticas o ciencia de datos y que cuenten con conocimientos básicos o intermedios de R. No es requisito el conocimiento previo de las fuentes específicas de datos de salud.
+El curso está orientado a profesionales de diferentes disciplinas que se interesen o trabajen con estadísticas o ciencia de datos y que cuenten con conocimientos básicos o intermedios de R. No es requisito el conocimiento previo de las fuentes específicas de datos de salud.
 
 <h2>Requerimientos mínimos necesarios para este curso:</h2>
 
@@ -57,7 +52,8 @@ Introducción a los datos abiertos en salud. Descripción de los datos de estad�
 
 Generación de indicadores de salud en R: Estadísticas vitales: tasas de mortalidad brutas y ajustadas. Tasas de mortalidad específicas por grupos de edad y por causa. Razón de mortalidad materna. Mortalidad Infantil. Mortalidad proporcional. Datos de vigilancia epidemiológica: incidencia y prevalencia. Letalidad. Tasa de notificación. Otros indicadores de salud.
 
-<h3>**Unidad 3: Introducción a Shiny y conceptos básicos de visualización de datos**.</h3>
+<h3>
+    **Unidad 3: Introducción a Shiny y conceptos básicos de visualización de datos**.</h3>
 
 
 Introducción a Shiny: ¿qué es y cómo funciona? Configuración del entorno de desarrollo en RStudio. Diseño de la interfaz de usuario en Shiny. Elementos básicos de Shiny: inputs, outputs y _reactives_. Incorporación de elementos interactivos en la aplicación Shiny. Utilización de paquetes para generar visualizaciones interactivas.  Buenas prácticas en la elaboración de gráficos. Tipos de gráficos según tipo de datos a representar  Ejercicio práctico: crear una aplicación Shiny básica con elementos interactivos.
