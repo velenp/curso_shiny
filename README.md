@@ -10,7 +10,7 @@ AÑO: 2023	CUATRIMESTRE: SEGUNDO
 
 DOCENTES: Adrián Santoro / Velén Pennini
 
-...
+El curso está orientado a profesionales de diferentes disciplinas que se interesen o trabajen con estadísticas o ciencia de datos y que cuenten con conocimientos básicos o intermedios de R. No es requisito el conocimiento previo de las fuentes específicas de datos de salud.
 
 ## Requerimientos mínimos necesarios para este curso:
 
@@ -33,34 +33,34 @@ El propósito de este curso es que, al finalizarlo, cada alumno/a haya desarroll
 
 ### Unidad 1: acceso y procesamiento de datos de salud con R.
 
-...
+Introducción a los datos abiertos en salud. Descripción de los datos de estadísticas vitales y vigilancia epidemiológica y su utilidad en la salud pública. Carga y exploración inicial de conjuntos de datos de salud en R.
 
 ### Unidad 2: Indicadores de salud en R
 
-...
+Generación de indicadores de salud en R: Estadísticas vitales: tasas de mortalidad brutas y ajustadas. Tasas de mortalidad específicas por grupos de edad y por causa. Razón de mortalidad materna. Mortalidad Infantil. Mortalidad proporcional. Datos de vigilancia epidemiológica: incidencia y prevalencia. Letalidad. Tasa de notificación. Otros indicadores de salud.
 
 ### Unidad 3: Introducción a Shiny y conceptos básicos de visualización de datos.
 
-...
+Introducción a Shiny: ¿qué es y cómo funciona? Configuración del entorno de desarrollo en RStudio. Diseño de la interfaz de usuario en Shiny. Elementos básicos de Shiny: inputs, outputs y _reactives_. Incorporación de elementos interactivos en la aplicación Shiny. Utilización de paquetes para generar visualizaciones interactivas.  Buenas prácticas en la elaboración de gráficos. Tipos de gráficos según tipo de datos a representar  Ejercicio práctico: crear una aplicación Shiny básica con elementos interactivos.
 
 ### Unidad 4: Visualización interactiva en Shiny
 
-...
+Importación y manipulación de datos de salud y epidemiología. Preparación de los datos para su visualización en la aplicación Shiny. Ejercicio práctico: preparar y visualizar datos de salud en la aplicación Shiny.
 
 ### Unidad 5: Despliegue de la aplicación Shiny
 
-...
+Opciones de despliegue de aplicaciones Shiny. Configuración de una cuenta en shinyapps.io u otra plataforma de despliegue. Preparación de la aplicación Shiny para el despliegue. Demostración del proceso de despliegue en shinyapps.io u otra plataforma. Ejercicio práctico: desplegar la aplicación Shiny desarrollada durante el curso.
 
 ## METODOLOGÍA
 
-...
+El curso se desarrollará de manera virtual y sincrónica. Se abordarán los contenidos de forma práctica con el propósito de reproducir las diferentes fases en el desarrollo de una visualización interactiva de datos (acceso a la información, procesamiento, análisis, visualización, despliegue).
 
 ## REQUISITOS PARA LA APROBACIÓN DE LA MATERIA
 
 ### EVALUACIÓN
 
-...
+Para la aprobación de la asignatura es necesario cumplimentar el 80% de asistencia a las actividades sincrónicas, tener aprobados todos los Trabajos Prácticos y una evaluación final.
 
 ### ASISTENCIA A CLASES
 
-...
+El alumno debe cumplimentar el 80% de asistencia a las clases teóricas.
