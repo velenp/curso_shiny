@@ -3,7 +3,7 @@
 You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
 * ERRORs: 0
 * WARNINGs: 0
-* ALERTS: 5
+* ALERTS: 5 -->
 
 Conversion time: 2.175 seconds.
 
