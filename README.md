@@ -1,9 +1,4 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 5 -->
+<!-- TOC -->
 
 ![alt_text](images/image1.png "image_tooltip")
 
@@ -92,3 +87,4 @@ Ingresa al sitio oficial de [RStudio](https://rstudio.com/products/rstudio/downl
 
 Inserta tu texto aquí, Inserta tu texto aquí.
 
+<!-- TOC -->
