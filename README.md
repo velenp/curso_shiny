@@ -1,5 +1,3 @@
-<!-- Output copied to clipboard! -->
-
 <!-----
 
 You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
@@ -7,7 +5,7 @@ You have some errors, warnings, or alerts. If you are using reckless mode, turn 
 * WARNINGs: 0
 * ALERTS: 6
 
-Conversion time: 0.932 seconds.
+Conversion time: 1.036 seconds.
 
 
 Using this Markdown file:
@@ -20,7 +18,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β34
-* Thu Jul 20 2023 12:41:38 GMT-0700 (PDT)
+* Thu Jul 20 2023 12:48:57 GMT-0700 (PDT)
 * Source doc: Tutoriales RStudio y GIT
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
 
@@ -112,7 +110,7 @@ Enlace para descargar R:[ https://r-project.org](https://r-project.org)
 Enlace para descargar RStudio: [https://rstudio.com](https://rstudio.com)
 
 
-# Agenda
+# Instalar GIT
 
 
 ## Seguimiento de la última reunión
@@ -149,4 +147,3 @@ Enlace para descargar RStudio: [https://rstudio.com](https://rstudio.com)
 # Elementos de la agenda de la próxima reunión
 
 Inserta tu texto aquí, Inserta tu texto aquí.
-
