@@ -5,7 +5,7 @@ You have some errors, warnings, or alerts. If you are using reckless mode, turn 
 * WARNINGs: 0
 * ALERTS: 5
 
-Conversion time: 0.915 seconds.
+Conversion time: 2.175 seconds.
 
 
 Using this Markdown file:
@@ -18,7 +18,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β34
-* Thu Jul 20 2023 13:40:41 GMT-0700 (PDT)
+* Thu Jul 20 2023 13:44:14 GMT-0700 (PDT)
 * Source doc: Tutoriales RStudio y GIT
 * This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
 
@@ -137,3 +137,4 @@ Ingresa al sitio oficial de [RStudio](https://rstudio.com/products/rstudio/downl
 
 
 Inserta tu texto aquí, Inserta tu texto aquí.
+
