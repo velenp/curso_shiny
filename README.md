@@ -1,5 +1,6 @@
 <!-- Yay, no errors, warnings, or alerts! -->
 
+[Tutoriales] (https://velenp.github.io/curso_shiny/Tutorial_GIT)
 # Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud.
 
 Cupo: 30
