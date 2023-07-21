@@ -1,5 +1,3 @@
-<!-- Yay, no errors, warnings, or alerts! -->
-
 # Contenido del repositorio
 [Tutoriales](https://velenp.github.io/curso_shiny/Tutorial_GIT)
 
