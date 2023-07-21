@@ -1,8 +1,8 @@
 ![Línea horizontal](images/image_1.png)
 
-Tutoriales para instalación de RStudio y GIT y su integración
+# Tutoriales para instalación de RStudio y GIT y su integración
 
-Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud - UNTREF
+# Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud - UNTREF
 
 **─**
 
