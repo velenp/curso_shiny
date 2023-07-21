@@ -1,21 +1,72 @@
-<!-- You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 17 -->
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 3.025 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* HTML and Markdown from Docs version 1.0
+* Fri Jul 21 2023 04:03:43 GMT-0000 (UTC)
+* Source doc: Tutoriales RStudio y GIT
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+
+WARNING:
+You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 17.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+<a href="#gdcalert6">alert6</a>
+<a href="#gdcalert7">alert7</a>
+<a href="#gdcalert8">alert8</a>
+<a href="#gdcalert9">alert9</a>
+<a href="#gdcalert10">alert10</a>
+<a href="#gdcalert11">alert11</a>
+<a href="#gdcalert12">alert12</a>
+<a href="#gdcalert13">alert13</a>
+<a href="#gdcalert14">alert14</a>
+<a href="#gdcalert15">alert15</a>
+<a href="#gdcalert16">alert16</a>
+<a href="#gdcalert17">alert17</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image1.png "image_tooltip")
 
 
-<h2>Tutoriales para instalación de RStudio y GIT y su integración</h2>
+
+# Tutoriales para instalación de RStudio y GIT y su integración
 
 
-<p>Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud -  UNTREF
+## Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud -  UNTREF
 
 **─**
 
-<h2>Instalar R y RStudio:</h2>
 
+# Instalar R y RStudio:
 
 Instalaciòn de R: Permite comprender el lenguaje de programación R
 
@@ -24,12 +75,24 @@ Instalación de RStudio: Se instala un entorno de desarrollo integrado (IDE) que
 Para instalar R ingresa [aca](https://cloud.r-project.org/) y sigue las instrucciones:
 
 
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image2.png "image_tooltip")
 
 
 
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image3.png "image_tooltip")
 
+
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image4.png "image_tooltip")
@@ -42,11 +105,15 @@ RStudio es un entorno integrado de desarrollo (IDE por sus siglas en inglés). S
 Ingresa al sitio oficial de [RStudio](https://rstudio.com/products/rstudio/download/).
 
 
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image5.png "image_tooltip")
 
 
-<h2>Integrar GIT con R y Rstudio</h2>
 
+# Integrar GIT con R y Rstudio
 
 R en combinación con el sistema de control de versiones distribuidas Git ofrece una configuración conveniente para hacer que su proyecto de investigación sea reproducible. Git le permite rastrear y compartir su código y análisis de manera eficiente.
 
@@ -87,10 +154,14 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 2. Marque Habilitar interfaz de control de versiones para proyectos de RStudio
 3. Establezca la ruta al ejecutable de Git que acaba de instalar. Pruede ayudarse del boton “Broese..” para llegar a la ruta. En la imagen un ejemplo de ruta.
 4. Reinicie RStudio. Si funcionó, encontrará el icono de Git en la barra de herramientas superior, como se muestra a continuación.
-<h3>
+
+## 
     
+
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image6.png "image_tooltip")
-</h3>
 
 
 4. Configure Git: 
@@ -108,6 +179,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 
 
     
+
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image7.png "image_tooltip")
  
 
@@ -115,17 +190,29 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
     1. Ingresar a la pagina de GitHub y crear un repositorio nuevo que se llame “curso_shiny_sunombre” agregandole su nombre al final. Al hacer clic en “new” se abrirá una pantalla como la que está a continuación.
 
     
+
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image8.png "image_tooltip")
 
 
 
     
+
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image9.png "image_tooltip")
 
 
     2. Ahora, increse al repositorio y copie el enlace, tal como se muestra en la captura.
 
         
+
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image10.png "image_tooltip")
 
 
@@ -142,6 +229,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 
 
         
+
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image11.png "image_tooltip")
 
 
@@ -149,6 +240,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 3. En la pantalla que se abre seleccione la opción “Version Control” tal como se ve en la captura a continuación.
 
         
+
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image12.png "image_tooltip")
 
 
@@ -157,6 +252,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 
 
         
+
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image13.png "image_tooltip")
 
 
@@ -165,6 +264,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 
 
         
+
+<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image14.png "image_tooltip")
 
 
@@ -173,6 +276,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 2. Si vuelve a RStudio, veran en la ventada GIT, que se encuentra como solapa en el mismo espacio que el Environment, todos estos archivos nuevos agregados. 
 
         
+
+<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image15.png "image_tooltip")
 
 
@@ -180,12 +287,20 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 4. Hacer clic en Commit, y verán que se despliega una ventana como la presentada a continuación. Alli, tildar todos los archivos tal como se ve en la captura. Donde dice “commit message” poner un mensaje que identifique a este commit, como por ejemplo “primer commit”. y por ultimo hacer clic en “commit” que se muestra en la figura señalado en rojo.
 
         
+
+<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image16.png "image_tooltip")
 
 
 5. Aparecerá una ventana negra con el detalle de la tarea realizada. Cerra esa ventana y hacer clic en el botón de “push” con una flecha verde hacia arriba, tal como se muestra en la captura.
 
         
+
+<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
 ![alt_text](images/image17.png "image_tooltip")
 
 
