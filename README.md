@@ -1,5 +1,5 @@
 # Contenido del repositorio
-[Tutoriales](https://velenp.github.io/curso_shiny/Tutorial_GIT)
+[Tutoriales](Tutorial_GIT.md)
 
 # Programa: Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud.
 
