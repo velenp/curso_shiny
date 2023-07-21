@@ -85,9 +85,10 @@ Indique a RStudio dónde encontrar la instalación de Git. Para ello sigue los s
 
 En la consola de RStudio escribir
 
-library(usethis)
-
-edit_git_config()
+```
+	library(usethis)
+	edit_git_config()
+```
 
 Luego verán que se crea una ventana llamada “.gitconfig” y alli deberán completar los campos *name* y *email* tal como se ve en la figura y guardar.
 
