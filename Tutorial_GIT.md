@@ -4,6 +4,7 @@
 
 ### Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud - UNTREF
 
+
 **─**
 
 [Instalar R y RStudio:](#instalar-r-y-rstudio)
