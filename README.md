@@ -1,7 +1,3 @@
-# Contenido del repositorio
-[Tutoriales](Tutorial_GIT.md)
-
-
 # Programa: Introducción al procesamiento, análisis y visualización interactiva de datos abiertos en salud.
 
 Cupo: 30
